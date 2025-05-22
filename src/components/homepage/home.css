@@ -1,0 +1,36 @@
+
+.hero-img-container {
+    min-width: 100vw;
+    height: 70vh;
+    width: auto;
+    background-image: url(/image_city_2030.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 0;
+}
+
+
+.hero-img-opacity {
+    height: inherit;
+    width: inherit;
+    background: rgb(8,8,20);
+    background: linear-gradient(16deg, rgba(12, 12, 40, 0.5) 0%, rgba(35,35,79,0.5) 35%, rgba(178,232,244,0.5) 100%);
+
+}
+
+.logo-event-name-transparent {
+    max-height: 300px;
+    max-width: auto;
+}
+
+.hero-img-title {
+    text-align: start;
+
+}
+
+.speaker-img {
+    height: 100px;
+    width: auto;
+    filter: droprgba(167, 167, 235, 0.25);
+}

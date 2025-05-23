@@ -2,8 +2,8 @@ import { useState } from 'react'
 import { Route, Routes } from 'react-router-dom';
 import './App.css'
 
-import Home from './pages/Home.jsx'
-import NavBar from './components/NavBar.jsx'
+import Home from './pages/Home'
+import NavBar from './components/NavBar'
 
 function App() {
 

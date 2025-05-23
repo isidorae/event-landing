@@ -7,20 +7,18 @@ export default function AboutEvent() {
 
     return(
         <>
-        <div>
-            <Container>
-                <Row className="d-flex align-items-center justify-content-center text-center m-5">
-                    <Col>
-                        <p className="text-align-justify font-size-lg">Este evento reúne a los actores que están definiendo el nuevo estándar:
+        <div className="second-banner-container">
+            <div className='second-banner-opacity d-flex align-items-center justify-content-center'>
+                <div className="hero-img-content">
+                    <section className="d-flex flex-column align-items-center justify-content-center text-center">
+                        <p className="font-size-lg text-center text-white p-5">
+                            Este evento reúne a los actores que están definiendo <span className="font-bolder">el nuevo estándar</span>.
                             Desde portales líderes como Portal inmobiliario, Toctoc, hasta referentes
-                             en experiencia digital, marketing de alto impacto e inversión inmobiliaria.
+                            en experiencia digital, marketing de alto impacto e inversión inmobiliaria.
                         </p>
-                    </Col>
-                    <Col>
-                        <h1 className="about-event-text">IMG</h1>
-                    </Col>
-                </Row>
-            </Container>
+                    </section>
+                </div>
+            </div>
         </div>
         </>
     )

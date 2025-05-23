@@ -19,6 +19,44 @@
 
 }
 
+.second-banner-container {
+    min-width: 100vw;
+    height: 60vh;
+    width: auto;
+    background-image: url(/second_banner.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 0;
+}
+
+.second-banner-opacity {
+    height: inherit;
+    width: inherit;
+    background: rgb(8,8,20);
+    background: linear-gradient(16deg, rgba(12, 12, 40, 0.5) 0%, rgba(35,35,79,0.5) 35%, rgba(178,232,244,0.5) 100%);
+
+}
+
+.event-img-container {
+    min-width: 100vw;
+    height: 60vh;
+    width: auto;
+    background-image: url(/event_image.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 0;
+}
+
+.event-img-opacity {
+    height: inherit;
+    width: inherit;
+    background: rgb(8,8,20);
+    background: linear-gradient(16deg, rgba(12, 12, 40, 0.5) 0%, rgba(35,35,79,0.5) 35%, rgba(178,232,244,0.5) 100%);
+
+}
+
 .logo-event-name-transparent {
     max-height: 300px;
     max-width: auto;

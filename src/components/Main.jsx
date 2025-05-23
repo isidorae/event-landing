@@ -1,4 +1,4 @@
-import HeroImg from "./homepage/HeroImg";
+import HeroImg from "./homepage/HeroImg.jsx";
 
 
 export default function Main() {

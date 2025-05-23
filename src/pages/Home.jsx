@@ -1,10 +1,9 @@
-import Main from "../components/Main"
-import Footer from "../components/FooterComp"
-import ActionMessages from "../components/homepage/ActionMessages"
-import AboutEvent from "../components/homepage/AboutEvent"
-import FooterComp from "../components/FooterComp"
-import Speakers from "../components/homepage/Speakers"
-import FinalMsgs from "../components/homepage/FinalMsgs"
+import Main from "../components/Main.jsx"
+import ActionMessages from "../components/homepage/ActionMessages.jsx"
+import AboutEvent from "../components/homepage/AboutEvent.jsx"
+import FooterComp from "../components/FooterComp.jsx"
+import Speakers from "../components/homepage/Speakers.jsx"
+import FinalMsgs from "../components/homepage/FinalMsgs.jsx"
 
 export default function Home() { 
     return (

@@ -6,6 +6,7 @@ import FinalMsgs from "./homepage/FinalMsgs";
 import FooterComp from "./FooterComp";
 import JoinNow from "./homepage/JoinNow";
 import { useRef } from "react";
+import ComeCTA from "./homepage/ComeCTA";
 
 
 export default function Main() {
@@ -19,10 +20,8 @@ export default function Main() {
         <AboutEvent />
         <Speakers />
         <FinalMsgs />
-        <div className="text-center">
-            hola
-        </div>
         <JoinNow formRef={formRef}/>
+        <ComeCTA />
         <FooterComp/>
         </>
     )

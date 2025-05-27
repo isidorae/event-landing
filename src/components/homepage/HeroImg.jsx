@@ -18,7 +18,7 @@ export default function HeroImg({ref}) {
                                     <img className="logo-event-name-transparent" src="./logo_nombre.png"/>
                                 </Col>
                                 <Col className="d-flex flex-column align-items-start justify-content-center">
-                                    <h1 className="hero-img-title text-white">Tendencias, datos, experiencias. Todo lo que necesitas para transformar tu negocio.</h1>
+                                    <h2 className="hero-img-title text-white">Tendencias, datos, experiencias. Todo lo que necesitas para transformar tu negocio.</h2>
                                     <button className="btn btn-light m-2" onClick={() => ref.current?.scrollIntoView({
                                         behavior: 'smooth'
                                     })}>

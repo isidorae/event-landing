@@ -19,6 +19,7 @@ export default function Main() {
         <AboutEvent />
         <Speakers />
         <FinalMsgs />
+        join now
         <JoinNow formRef={formRef}/>
         <FooterComp/>
         </>

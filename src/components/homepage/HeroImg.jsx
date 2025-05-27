@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-export default function HeroImg() {
+export default function HeroImg({ref}) {
 
     return(
         <>
@@ -19,7 +19,11 @@ export default function HeroImg() {
                                 </Col>
                                 <Col className="d-flex flex-column align-items-start justify-content-center">
                                     <h1 className="hero-img-title text-white">Tendencias, datos, experiencias. Todo lo que necesitas para transformar tu negocio.</h1>
-                                    <button className="btn btn-light m-2">INSCRÍBETE</button>
+                                    <button className="btn btn-light m-2" onClick={() => ref.current?.scrollIntoView({
+                                        behavior: 'smooth'
+                                    })}>
+                                        INSCRÍBETE
+                                    </button>
                                 </Col>
                             </Row>
                         </Container>

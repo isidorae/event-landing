@@ -8,7 +8,7 @@ export default function FooterComp() {
                     <Link to="https://www.instagram.com/dataprop.cl/" target="_blank"><i className="bi bi-instagram text-white"></i></Link>
                 </section>
                 <section>
-                    <span className="me-1 text-white">Un evento organizado por Dataprop SPA</span>
+                    <span className="me-1 text-white">Un evento organizado por Dataprop SPA junto a Databrokers</span>
                     <span>© 2025</span>
                 </section>
             </div>

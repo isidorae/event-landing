@@ -19,7 +19,9 @@ export default function Main() {
         <AboutEvent />
         <Speakers />
         <FinalMsgs />
-        join now
+        <div className="text-center">
+            hola
+        </div>
         <JoinNow formRef={formRef}/>
         <FooterComp/>
         </>

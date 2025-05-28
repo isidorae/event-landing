@@ -17,7 +17,7 @@ export default function FinalMsgs() {
             </div>
         </div>
         <div className="pt-5">
-            <section className="text-center text-blue">
+            <section className="text-center text-dark">
                 <h3 className="font-size-xl font-bolder text-uppercase">¿Y tú? ¿Estás cambiando también?</h3>
             </section>
         </div>

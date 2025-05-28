@@ -72,3 +72,8 @@
     width: auto;
     filter: droprgba(167, 167, 235, 0.25);
 }
+
+.speaker-card {
+    width: 250px;
+    height: auto;
+}

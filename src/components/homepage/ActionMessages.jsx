@@ -7,9 +7,6 @@ export default function ActionMessages() {
     return(
         <>
             <div>
-                <div className="bg-dark p-3">
-                    <p className="m-0 text-white font-bold text-center">El corretaje inmobiliario está viviendo una <span className="red-font">trasformación</span> profunda.</p>
-                </div>
                 <Container>
                     <Row className="font-size-md m-5 d-flex flex-wrap">
                         <Col xs={12} md={4} className="d-flex flex-column align-items-center justify-content-center p-2">
@@ -26,10 +23,8 @@ export default function ActionMessages() {
                         </Col>
                     </Row>
                 </Container>
-                <div className="p-5">
-                    <section className="text-center text-blue">
-                        <h3 className="font-size-xl font-bolder text-uppercase">¿Y tú? ¿Estás cambiando también?</h3>
-                    </section>
+                <div className="bg-dark p-3">
+                    <p className="m-0 text-white font-bold text-center text-center">Porque el futuro no lo ganan los más grandes, sino los que mejor se <span className="red-font">adaptan</span>.</p>
                 </div>
             </div>
         </>

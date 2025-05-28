@@ -7,26 +7,31 @@ export default function Speakers() {
         <div>
             <div className="bg-dark text-white d-flex flex-column align-items-center justify-content-center text-center py-5"> 
                 <h2 className="font-bolder">SPEAKERS</h2>
-                <div className="d-flex flex-column align-items-start justify-content-center p-5">
-                    <section className="d-flex flex-row align-items-center justify-content-center p-2">
-                        <img className="speaker-img me-3" src="./toc_toc.png"/>
-                        <p><span className="font-bolder">TOC TOC</span> Tendencias y datos: así se está moviendo la industria</p>
+                <div className="d-flex flex-row align-items-start justify-content-center p-5">
+                    <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
+                        <img className="speaker-img" src="./toc_toc.png"/>
+                        <p className="font-bolder mt-3">TOC TOC</p>
+                        <p>Tendencias y datos: así se está moviendo la industria</p>
                     </section>
-                    <section className="d-flex flex-row align-items-center justify-content-center p-2">
-                        <img className="speaker-img me-3" src="./meli.png"/>
-                        <p><span className="font-bolder">PORTAL INMOBILIARIO</span> Cómo está evolucionando la experiencia del comprador y del vendedor</p>
+                    <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
+                        <img className="speaker-img" src="./meli.png"/>
+                        <p className="font-bolder mt-3">PORTAL INMOBILIARIO</p>
+                        <p>Cómo está evolucionando la experiencia del comprador y del vendedor</p>
                     </section>
-                    <section className="d-flex flex-row align-items-center justify-content-center p-2">
-                        <img className="speaker-img me-3" src="./ceo_fraccional.png"/>
-                        <p><span className="font-bolder">CEO FRACCIONAL</span> CEO Fraccional, Marketing inmobiliario para emocionar y fidelizar</p>
+                    <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
+                        <img className="speaker-img" src="./ceo_fraccional.png"/>
+                        <p className="font-bolder mt-3">TOMÁS CHARLES</p>
+                        <p>CEO Fraccional, Marketing inmobiliario para emocionar y fidelizar</p>
                     </section>
-                    <section className="d-flex flex-row align-items-center justify-content-center p-2">
-                        <img className="speaker-img me-3" src="./fco_ackerman.png"/>
-                        <p><span className="font-bolder">FRANCISCO ACKERMANN</span> Inversión inmobiliaria hoy: cómo piensan y deciden las nuevas generaciones de inversionistas</p>
+                        <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
+                        <img className="speaker-img" src="./gonzalo_uribe.png"/>
+                        <p className="font-bolder mt-3">GONZALO URIBE</p>
+                        <p>El corretaje profesional y conectado: cómo se ve desde adentro el futuro del negocio</p>
                     </section>
-                    <section className="d-flex flex-row align-items-center justify-content-center p-2">
-                        <img className="speaker-img me-3" src="./gonzalo_uribe.png"/>
-                        <p><span className="font-bolder">GONZALO URIBE</span> El corretaje profesional y conectado: cómo se ve desde adentro el futuro del negocio</p>
+                    <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
+                        <img className="speaker-img" src="./fco_ackerman.png"/>
+                        <p className="font-bolder mt-3">FRANCISCO ACKERMANN</p>
+                        <p>Fundador Ackermann Propiedades. Cómo piensan y deciden las nuevas generaciones de inversionistas</p>
                     </section>
                 </div>
             </div>

@@ -31,6 +31,9 @@ export default function HeroImg({ref}) {
                 </div>
             </div>
         </div>
+        <div className="bg-dark p-3">
+            <p className="m-0 text-white font-bold text-center">El corretaje inmobiliario está viviendo una <span className="red-font">trasformación</span> profunda.</p>
+        </div>
         </>
     )
 }

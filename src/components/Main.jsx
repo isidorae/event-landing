@@ -16,9 +16,9 @@ export default function Main() {
     return(
         <>
         <HeroImg ref={formRef}/>
-        <ActionMessages />
-        <AboutEvent />
         <Speakers />
+        <AboutEvent />
+        <ActionMessages />
         <FinalMsgs />
         <JoinNow formRef={formRef}/>
         <ComeCTA />

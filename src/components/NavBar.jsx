@@ -7,7 +7,7 @@ function NavBar() {
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
         <Navbar.Brand>
-          <small>29 de Junio 9.00 AM, <span className="font-bolder">Hotel Hyatt</span>, Vitacura</small>
+          <small>29 de Junio 9.00 AM</small>
         </Navbar.Brand>
       </Container>
     </Navbar>

@@ -7,7 +7,7 @@ export default function Speakers() {
         <div>
             <div className="bg-dark text-white d-flex flex-column align-items-center justify-content-center text-center py-5"> 
                 <h2 className="font-bolder">SPEAKERS</h2>
-                <div className="d-flex flex-row align-items-start justify-content-center p-5">
+                <div className="d-flex flex-wrap flex-row align-items-start justify-content-center p-5">
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./toc_toc.png"/>
                         <p className="font-bolder mt-3">TOC TOC</p>

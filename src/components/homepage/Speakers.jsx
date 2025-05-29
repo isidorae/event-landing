@@ -26,7 +26,7 @@ export default function Speakers() {
                         <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./gonzalo_uribe.png"/>
                         <p className="font-bolder mt-3">GONZALO URIBE</p>
-                        <p>El corretaje profesional y conectado: cómo se ve desde adentro el futuro del negocio</p>
+                        <p>CCO Dataprop. El corretaje profesional y conectado: cómo se ve desde adentro el futuro del negocio</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./fco_ackerman.png"/>

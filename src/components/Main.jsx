@@ -16,7 +16,7 @@ export default function Main() {
     return(
         <>
         <HeroImg ref={formRef}/>
-        <Speakers />
+        <Speakers ref={formRef} />
         <AboutEvent />
         <ActionMessages />
         <FinalMsgs />

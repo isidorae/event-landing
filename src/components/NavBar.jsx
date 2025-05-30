@@ -7,7 +7,7 @@ function NavBar() {
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
         <Navbar.Brand>
-          <small>29 de Junio 9.00 AM</small>
+          <small>29 de Junio 9.00 AM | Lugar por confirmar</small>
         </Navbar.Brand>
       </Container>
     </Navbar>

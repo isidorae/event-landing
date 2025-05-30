@@ -16,9 +16,9 @@ export default function FinalMsgs() {
                 </div>
             </div>
         </div>
-        <div className="pt-5">
-            <section className="text-center text-dark">
-                <h3 className="font-size-xl font-bolder text-uppercase">¿Y tú? ¿Estás cambiando también?</h3>
+        <div className="p-5 bg-dark d-flex flex-column align-items-center justify-content-center text-center">
+            <section className="text-center">
+                <h3 className="font-size-xl font-bolder text-uppercase text-white m-0">¿Y tú? ¿Estás <span className="red-font">cambiando</span> también?</h3>
             </section>
         </div>
         </>

@@ -29,11 +29,6 @@ export default function Speakers({ref}) {
                         <p>Fundador Ackermann Propiedades. Cómo piensan y deciden las nuevas generaciones de inversionistas</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
-                        <img className="speaker-img" src="./toc_toc.png"/>
-                        <p className="font-bolder mt-3">TOC TOC</p>
-                        <p>Tendencias y datos: así se está moviendo la industria</p>
-                    </section>
-                    <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./surprise.png"/>
                         <p className="font-bolder mt-3">INVITADO SORPRESA</p>
                         <p>Datos inmobiliarios</p>

@@ -77,3 +77,14 @@
     width: 250px;
     height: auto;
 }
+
+@media (max-width: 760px) {
+    .mobile-hero-img-text {
+        margin: 2rem;
+        /* background-position: 0 0 100px; */
+    }
+    .mobile-btn-and-text-hero-img {
+        text-align: center !important;
+        align-items: center !important;
+    }
+}

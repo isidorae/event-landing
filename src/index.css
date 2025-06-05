@@ -37,6 +37,10 @@ p {
   font-size: 1.6rem;
 }
 
+.font-size-xs {
+  font-size: 0.9rem;
+}
+
 .vh-100 {
   min-height: 100vh;
 }

@@ -11,27 +11,27 @@ export default function Speakers({ref}) {
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./paula.png"/>
                         <p className="font-bolder mt-3">PAULA DÍAZ BURGOS</p>
-                        <p>Subgerente Marketplace VIS. Cómo está evolucionando la experiencia del comprador y del vendedor</p>
+                        <p>Subgerente Marketplace VIS, Portal Inmobiliario. El presente y futuro de los portales inmobiliarios</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./ceo_fraccional.png"/>
                         <p className="font-bolder mt-3">TOMÁS CHARLES</p>
-                        <p>CEO Fraccional, Marketing inmobiliario para emocionar y fidelizar</p>
+                        <p>CEO Fraccional, El presente y futuro del Marketing Inmobiliario</p>
                     </section>
                         <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./gonzalo_uribe.png"/>
                         <p className="font-bolder mt-3">GONZALO URIBE</p>
-                        <p>CCO Dataprop. El corretaje profesional y conectado: cómo se ve desde adentro el futuro del negocio</p>
+                        <p>CCO Dataprop. Cómo diferenciarse en una industria que evoluciona rápido</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./fco_ackerman.png"/>
                         <p className="font-bolder mt-3">FRANCISCO ACKERMANN</p>
-                        <p>Fundador Ackermann Propiedades. Cómo piensan y deciden las nuevas generaciones de inversionistas</p>
+                        <p>Fundador Ackermann Propiedades. Cómo invierten las nuevas generaciones</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./surprise.png"/>
                         <p className="font-bolder mt-3">INVITADO SORPRESA</p>
-                        <p>Datos inmobiliarios</p>
+                        <p>Tendencias y el futuro del corretaje que serán el estándar en 2030</p>
                     </section>
                 </div>
                 <div>

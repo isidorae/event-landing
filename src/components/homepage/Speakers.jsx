@@ -16,22 +16,22 @@ export default function Speakers({ref}) {
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./ceo_fraccional.png"/>
                         <p className="font-bolder mt-3">TOMÁS CHARLES</p>
-                        <p>CEO Fraccional. Modelos Colaborativos</p>
+                        <p>CEO Fraccional. Modelos Colaborativos en el Real Estate.</p>
                     </section>
                         <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./gonzalo_uribe.png"/>
                         <p className="font-bolder mt-3">GONZALO URIBE</p>
-                        <p>CCO Dataprop. El rol del corredor inmobiliario de cara al 2030</p>
+                        <p>CCO Dataprop. El rol del corredor inmobiliario de cara al 2030.</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./fco_ackerman.png"/>
                         <p className="font-bolder mt-3">FRANCISCO ACKERMANN</p>
-                        <p>Fundador Ackermann Propiedades. Inversión y comportamiento generacional</p>
+                        <p>Fundador Ackermann Propiedades. Inversión y comportamiento generacional.</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./surprise.png"/>
                         <p className="font-bolder mt-3">INVITADO SORPRESA</p>
-                        <p>Tendencias y el futuro del corretaje al 2030</p>
+                        <p>Tendencias y el futuro del corretaje al 2030.</p>
                     </section>
                 </div>
                 <div>

@@ -16,7 +16,7 @@ export default function Speakers({ref}) {
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./ceo_fraccional.png"/>
                         <p className="font-bolder mt-3">TOMÁS CHARLES</p>
-                        <p>CEO Fraccional. Modelos Colaborativos en el Real Estate.</p>
+                        <p>CEO Fraccional. Modelos Colaborativos inmobiliarios.</p>
                     </section>
                         <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./gonzalo_uribe.png"/>

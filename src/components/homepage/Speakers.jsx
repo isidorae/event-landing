@@ -11,7 +11,7 @@ export default function Speakers({ref}) {
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./paula.png"/>
                         <p className="font-bolder mt-3">PAULA DÍAZ BURGOS</p>
-                        <p>Subgerente Marketplace VIS. Portal Inmobiliario. Experiencia del cliente.</p>
+                        <p>Subgerente Marketplace VIS, Portal Inmobiliario. Experiencia del cliente.</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./ceo_fraccional.png"/>

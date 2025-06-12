@@ -11,27 +11,27 @@ export default function Speakers({ref}) {
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./paula.png"/>
                         <p className="font-bolder mt-3">PAULA DÍAZ BURGOS</p>
-                        <p>Subgerente Marketplace VIS, Portal Inmobiliario. El presente y futuro de los portales inmobiliarios</p>
+                        <p>Subgerente Marketplace VIS. Portal Inmobiliario. Experiencia del cliente.</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./ceo_fraccional.png"/>
                         <p className="font-bolder mt-3">TOMÁS CHARLES</p>
-                        <p>CEO Fraccional, El presente y futuro del Marketing Inmobiliario</p>
+                        <p>CEO Fraccional. Modelos Colaborativos</p>
                     </section>
                         <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./gonzalo_uribe.png"/>
                         <p className="font-bolder mt-3">GONZALO URIBE</p>
-                        <p>CCO Dataprop. Cómo diferenciarse en una industria que evoluciona rápido</p>
+                        <p>CCO Dataprop. El rol del corredor inmobiliario de cara al 2030</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./fco_ackerman.png"/>
                         <p className="font-bolder mt-3">FRANCISCO ACKERMANN</p>
-                        <p>Fundador Ackermann Propiedades. Cómo invierten las nuevas generaciones</p>
+                        <p>Fundador Ackermann Propiedades. Inversión y comportamiento generacional</p>
                     </section>
                     <section className="speaker-card d-flex flex-column align-items-center justify-content-center p-2">
                         <img className="speaker-img" src="./surprise.png"/>
                         <p className="font-bolder mt-3">INVITADO SORPRESA</p>
-                        <p>Tendencias y el futuro del corretaje que serán el estándar en 2030</p>
+                        <p>Tendencias y el futuro del corretaje al 2030</p>
                     </section>
                 </div>
                 <div>

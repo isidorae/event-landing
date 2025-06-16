@@ -6,8 +6,14 @@ function NavBar() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand>
-          <small className="font-size-xs">Viernes 27 de Junio 9.00 AM | <span className="font-bolder">Hotel Radisson Blu</span>, Plaza El Bosque</small>
+        <Navbar.Brand className="d-flex flex-wrap wrap-text">
+          <small className="font-size-xs">
+            Viernes 
+            <span className="font-bolder"> 27 de Junio </span>
+             9.00 AM | 
+             <span className="font-bolder"> Radisson Blu </span>
+              Plaza El Bosque, Av. Manquehue Nte. 656, <span className="font-bolder"> Las Condes</span>, Santiago
+          </small>
         </Navbar.Brand>
       </Container>
     </Navbar>

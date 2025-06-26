@@ -10,7 +10,7 @@ function NavBar() {
           <small className="font-size-xs">
             Viernes 
             <span className="font-bolder"> 27 de Junio </span>
-             9.00 AM | 
+             8.30 AM | 
              <span className="font-bolder"> Radisson Blu </span>
               Plaza El Bosque, Av. Manquehue Nte. 656, <span className="font-bolder"> Las Condes</span>, Santiago
           </small>

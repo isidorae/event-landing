@@ -7,6 +7,7 @@ import FooterComp from "./FooterComp";
 import JoinNow from "./homepage/JoinNow";
 import { useRef } from "react";
 import ComeCTA from "./homepage/ComeCTA";
+import AgendaList from "./homepage/AgendaList";
 
 
 export default function Main() {
@@ -20,6 +21,7 @@ export default function Main() {
         <AboutEvent />
         <ActionMessages />
         <FinalMsgs />
+        <AgendaList />
         <JoinNow formRef={formRef}/>
         <ComeCTA />
         <FooterComp/>
